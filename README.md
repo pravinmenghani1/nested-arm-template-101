@@ -25,7 +25,7 @@ Discussed below is another alternative, which comes handy when experimenting, le
  
 ## Running the Scripts (once for each session)
 
-1. Download a sample copy of the nested scripts from https://github.com/kunalbabre/nested-arm-template-101 into `c:\nested-arm-template-101`
+1. Download a sample copy of the nested scripts from https://github.com/pravinmenghani1/nested-arm-template-101 into `c:\nested-arm-template-101`
 2. Open `c:\nested-arm-template-101` folder in command prompt 
 3. Type `http-server` and hit enter 
 4. Next note the port number it is running on - you will get something like  http://127.0.0.1:`8080` where `8080` is the port where our site is getting served locally
